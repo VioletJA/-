@@ -1,8 +1,8 @@
 ## 辉光管时钟
 年显示：<br>
-![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_104334.jpg)
+![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_104334.jpg width="100px")
 时分显示：<br>
-![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_104306.jpg)
+![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_104306.jpg width="100px")
 
 ### 硬件部分
 采用低成本方法，自己画了控制电路，网上买了一个5v-170v的升压模块。<br><br>
@@ -10,9 +10,9 @@
 硬件采用一节3.7v锂电池供电<br><br>
 
 俯视图：<br>
-![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_103618.jpg)
+![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_103618.jpg width="100px")
 正视图：<br>
-![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_103645.jpg)
+![image](https://github.com/VioletJA/Nixie-Tube/blob/main/img/IMG_20230227_103645.jpg width="100px")
 
 ### 软件部分
 软件使用stm32控制的，库是用stm32cubeMX生成的HAL库<br><br>
