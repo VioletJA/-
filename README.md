@@ -18,4 +18,4 @@
 软件使用stm32控制的，库是用stm32cubeMX生成的HAL库<br><br>
 软件主要是利用了一个按键控制显示切换时分显示、年显示、分秒显示的循环。<br><br>
 软件本打算利用低功耗模式，实现超长时间待机，但是在画硬件电路时太赶了，忘记加MOS管控制DS3231的电源和升压模块的电源的开断了。<br><br>
-具体说明放在CSDN了
+具体说明放在CSDN了:https://blog.csdn.net/zerokingwang/article/details/129232007?spm=1001.2014.3001.5502
